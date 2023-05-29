@@ -8,3 +8,4 @@ Color ungu = const Color(0xff6152FF);
 Color kuning = const Color(0xffFFAD09);
 Color putih = const Color(0xffFDFDFF);
 Color hitam = const Color(0xff101010);
+Color jingga = const Color(0xff101010);
